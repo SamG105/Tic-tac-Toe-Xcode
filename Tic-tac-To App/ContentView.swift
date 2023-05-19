@@ -10,12 +10,13 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         TabView {
+            // basic ai
             GameView()
                 .tabItem {
                     Label("DumbAILabel", systemImage: "person.fill.turn.down")
                         .labelStyle(.titleAndIcon)
                 }
-            
+            //unbeatable
             AIGameBoard()
                 .tabItem {
                     Label("AILabel", systemImage: "person.fill")
