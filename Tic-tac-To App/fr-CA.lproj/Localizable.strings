@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  Tic-tac-To App
+
+  Created by Samuel Guay on 2023-04-06.
+  
+*/
+
+//contentView
+"DumbAILabel" = "Sans IA";
+"AILabel" = "IA";
+
+
+//alert
+"AlertHumanTitle" = "Vous avez Gagner!";
+"AlertHumanMessage" = "Bravo";
+"AlertHumanButtonTitle" = "Encore!";
+
+"AlertComputerTitle" = "Vous avez perdu...";
+"AlertComputerMessage" = "L'IA vous a déjouer";
+"AlertComputerButtonTitle" = "!REVENGE!";
+
+"AlertDrawTitle" = "Nul";
+"AlertDrawMessage" = "Aller-vous ganger la Prochaine Fois?";
+"AlertDrawButtonTitle" = "Reessayer!";
